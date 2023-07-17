@@ -1,0 +1,113 @@
+
+
+body{
+    background-color:#2F3035;
+    background-image: url(images/creamy\ coast.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    height: 118px;
+    text-align: center;
+
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.443);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+        
+}
+
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 240px;
+    padding-right: 240px;
+    color: white;
+     
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.644);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 80px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif, italic;
+
+}
+
+p{
+    font-size: 23px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+b{
+    color: whitesmoke;
+    font-style: italic;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    font-size: 13px;
+}
+
+nav a{
+    text-decoration: none;  
+    font-size: 12px; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p{
+    font-size:10px;
+    text-align: center;
+    color: grey;
+}
+
+.maps{
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+a b{
+    text-decoration: underline;
+   
+
+}
+
+h2{
+    color: whitesmoke;
+    font-size: 25px;
+}
+button{
+    color: white;
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    box-shadow: none;
+   border: none;
+}
